@@ -25,6 +25,10 @@ The most interesting aspect of the application is the dynamic nature of its emoj
 **Github and Github Actions**
 GitHub is the perfect place to store the source code as it provides the flexibility to always have the previous code on the cloud should you lose the physical device you were coding with, along with the ability to track the changes that have been made over time. GitHub Actions allow for the code to be verified as an application that can run on any Android device, as it runs tests that allow all those who will view your GitHub to know of its credibility.
 
+**Youtube Video**
+
+https://youtu.be/T0H1jT-iDog
+
 
 **Images**
 
